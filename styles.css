@@ -1,0 +1,46 @@
+body{
+	text-align:center;
+	top: 100px;
+	background: linear-gradient(to right,#fc0202,#0000ff);
+	color: rgba(0,0,0, 0.7);
+	letter-spacing: .4em;
+}
+
+h1{
+	font:4em 'Stylish', sans-serif;
+	margin-top: 200px;
+	size: 3em;
+}
+
+h2{
+	text-transform: uppercase;
+	font: 3em 'Courier New', monospace;
+}
+
+h3{
+	font: 2.5em 'Ubuntu', sans-serif;
+}
+
+h5 {
+	
+	letter-spacing: .3em;
+	color: white;
+}
+
+footer{
+	margin-top: 10%;
+	letter-spacing: 0.1em;
+}
+
+button {
+    height: 30px;
+    width: 70px;
+    padding:1px 2px;
+    color: white;
+    background-color: rgb(19, 138, 223);
+    font-weight: bold;
+    border-radius: 6px;
+    font-size: 15px;
+    border: 5px;
+
+}
